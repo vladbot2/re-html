@@ -1,0 +1,77 @@
+/* 1 */
+/* body {
+    background-color: #f8f8f8; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.fruit-list {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    background-color: #e6a6a6; 
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+.fruit-list li {
+    background-color: #d98a8a; 
+    color: #fff;
+    padding: 10px;
+    margin: 5px 0; 
+    border-radius: 3px;
+}
+
+/* 2 */
+
+/* body {
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.todo-list {
+    padding: 0;
+    margin: 0;
+    width: 300px;
+    background-color: #d0e7f9;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.todo-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #c2d4e9; 
+    border-radius: 3px;
+}
+
+
+
+.todo-list li.done {
+    text-decoration: line-through;
+    background-color: #d3d3d3; 
+}
+
+.todo-list li.done .remove {
+    color: red; 
+} */
+
+
+
